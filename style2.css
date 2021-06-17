@@ -1,0 +1,111 @@
+.promotion{
+font-size:16px;
+opacity: 0.5;
+text-align: center;
+position: relative;
+top: 5px;
+
+}
+.packages{
+color: #424949
+;
+font-size: 30px;
+font-weight: bold;
+text-decoration: underline  #1f618d  ;
+text-align: center;
+position: relative;
+top: 10px;
+}
+
+
+div.content{
+color: #717d7e
+;
+border: 1px solid white;
+background-color: white;
+position: relative;
+top: 60px;
+left: 146px;
+height: 538px;
+width: 300px;
+overflow: hidden;
+float: left;
+margin: 45px;
+padding: 5px;
+line-height: 30px;
+text-align: justify;
+}
+h2{
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+}
+h3{
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+    opacity: 0.6;
+}
+
+div.culture{
+    position: relative;
+    bottom: 24px;
+    left: 20px;
+    font-weight: bold;
+}
+h4{
+    position: relative;
+    bottom: 54px;
+    left: 20px;
+}
+h4 span{
+    position: relative;
+    left: 125px;
+    font-size:25px;
+}
+.content-para{
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+    width: 280px;
+    
+}
+button.btn-1{
+    position: relative;
+    top:-16px ;
+    left: 206px;
+    color: #fdfefe ;
+    background-color: #d4ac0d ;
+    font-weight:lighter;
+    opacity: 0.8;
+    border: 10px solid  #d4ac0d ;
+    border-radius:100px;
+    
+
+}
+button.btn-2{
+    position: relative;
+    top:-16px ;
+    left: 206px;
+    color: #fdfefe ;
+    background-color: #7d3c98;
+    font-weight:lighter;
+    opacity: 0.8;
+    border: 10px solid #7d3c98;
+    border-radius:100px;
+    
+
+}
+button.btn-3{
+    position: relative;
+    top:-16px ;
+    left: 206px;
+    color: #fdfefe ;
+    background-color: #21618c ;
+    font-weight:lighter;
+    opacity: 0.8;
+    border: 10px solid  #21618c;
+    border-radius:100px;
+    
+
+}
