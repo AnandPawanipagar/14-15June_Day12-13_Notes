@@ -1,0 +1,69 @@
+*{
+    margin: 0px auto;
+}
+html, body{
+   margin: 0;
+   padding: 0;
+}
+body{
+  line-height: 20px;
+}
+.nav1 img{
+    height: 115px;
+    position: relative;
+    left: 85px;
+    top: 7px;
+}
+
+.nav{
+    
+    color:rgb(28, 123, 160);
+    position: absolute;
+    top: 48px;
+    right: 348px;
+}
+.nav-container{
+    background-color:rgb(8, 8, 34);
+}
+.section-container{
+    background-image: url("https://i.pinimg.com/564x/f2/7a/4c/f27a4c39e95cf64ff45fb25b6604fb24.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height:600px;
+}
+.section-container h1 {
+    font-size: 71px;
+    color: white;
+    position: relative;
+    top: 131px;
+    left: 246px;
+}
+
+.within-section form table{
+    background-color:rgb(8, 8, 34);
+    padding: 40px;
+    font-size: 21px;
+    position:absolute;
+    top:335px;
+    left:245px;
+}
+th{
+    text-align: left;
+    color: white;
+    padding: 5px;
+}
+th.search-flights{
+position: relative;
+top: 25px;
+left: 300px;
+
+}
+button{
+    height: 50px;
+    width: 167px;
+}
+
+
+
+
